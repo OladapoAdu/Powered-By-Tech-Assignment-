@@ -38,7 +38,7 @@ body {
 .box {
   background-color: #fff;
   border-radius: 8px;
-  box-shadow: 0 0 15px rgba(0, 0, 0);
+  box-shadow: 0 0 10px rgba(0, 0, 0);
   padding: 30px;
   text-align: left;
   height: 200px;
